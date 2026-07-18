@@ -17,10 +17,6 @@ Note: the best way to get in contact with me is through email
 | CompTIA Security+ | Certification | CompTIA | [Security+ Link](https://cp.certmetrics.com/comptia/en/public/verify/credential/231ES6TY4EVE2QK2) | Completed | April 2025-2028|
 | Google Cybersecurity Professional Certificate | Certificate | Coursera | [Google Certificate Link](https://www.coursera.org/account/accomplishments/specialization/certificate/TATDKTYEMNGM) | Completed | January 2025 |
 
-## 🛠️ My Professional Ecosystem
-I organize my work into two primary pillars to demonstrate the full lifecycle of detection, automation, and remediation:
-
-| Repository name | Repository Specilization | Repository Link |
-| :--- | :--- |:--- |
-| Security Engineering Projects | My core technical work, including custom Python automation tools, log parsers, and security infrastructure scripts. | [Security Projects Repo Link](https://github.com/RobNor12/Security-Engineering-Projects/blob/main/README.md)
-| Lab Incident Analysis Portfolio | Documented investigations from TryHackMe and HackTheBox. This repository details my methodology for threat identification and forensic log analysis. | [Lab Analysis Repo Link](https://github.com/RobNor12/Lab-Incident-Analysis-Portfolio/blob/main/README.md)
+## 🔗 Integrated Ecosystem
+* **[View my Lab Incident Analysis Portfolio](https://github.com/RobNor12/Lab-Incident-Analysis-Portfolio).**
+* **[View my Security Engineering Projects](https://github.com/RobNor12/Security-Engineering-Projects/blob/Overview/README.md).**
