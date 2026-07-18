@@ -22,5 +22,5 @@ I organize my work into two primary pillars to demonstrate the full lifecycle of
 
 | Repository name | Repository Specilization | Repository Link |
 | :--- | :--- |:--- |
-| Security Engineering Projects | My core technical work, including custom Python automation tools, log parsers, and security infrastructure scripts. | [Security Projects Repo Link](https://github.com/RobNor12/Security-Engineering-Projects/blob/Overview/README.md)
-| Lab Incident Analysis Portfolio | Documented investigations from TryHackMe and HackTheBox. This repository details my methodology for threat identification and forensic log analysis. | [Lab Analysis Repo Link](https://github.com/RobNor12/Lab-Incident-Analysis-Portfolio/blob/overview/README.md)
+| Security Engineering Projects | My core technical work, including custom Python automation tools, log parsers, and security infrastructure scripts. | [Security Projects Repo Link](https://github.com/RobNor12/Security-Engineering-Projects/blob/main/README.md)
+| Lab Incident Analysis Portfolio | Documented investigations from TryHackMe and HackTheBox. This repository details my methodology for threat identification and forensic log analysis. | [Lab Analysis Repo Link](https://github.com/RobNor12/Lab-Incident-Analysis-Portfolio/blob/main/README.md)
